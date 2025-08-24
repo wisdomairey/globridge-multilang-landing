@@ -1,0 +1,200 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "features": "Características",
+    "useCases": "Casos de Uso",
+    "pricing": "Precios",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Trabaja Sin Fronteras",
+    "subtitle": "Herramientas de IA para equipos globales que colaboran, traducen y ejecutan perfectamente.",
+    "description": "Conecta, Colabora, Conquista – Desde Cualquier Lugar",
+    "startTrial": "Prueba Gratuita",
+    "requestDemo": "Solicitar Demo",
+    "trustedBy": "Confiado por equipos en"
+  },
+  "features": {
+    "title": "Características Poderosas para Equipos Globales",
+    "subtitle": "Todo lo que necesitas para trabajar sin problemas a través de zonas horarias, idiomas y culturas",
+    "translation": {
+      "title": "Traducción de Contenido Localizada",
+      "description": "Traduce instantáneamente documentos, mensajes y contenido a más de 100 idiomas con precisión impulsada por IA."
+    },
+    "sync": {
+      "title": "Sincronización de Equipo en Tiempo Real",
+      "description": "Mantén a tu equipo distribuido alineado con actualizaciones en vivo, espacios de trabajo compartidos y notificaciones instantáneas."
+    },
+    "meetings": {
+      "title": "Resúmenes de Reuniones con IA",
+      "description": "Genera automáticamente notas de reuniones, elementos de acción y seguimientos en múltiples idiomas."
+    },
+    "scheduling": {
+      "title": "Programación Entre Zonas Horarias",
+      "description": "Programación inteligente que encuentra el momento perfecto para reuniones con miembros de tu equipo global."
+    },
+    "futureWork": {
+      "title": "Construido para el Futuro del Trabajo",
+      "description": "Nuestra plataforma impulsada por IA se adapta al flujo de trabajo único de tu equipo, aprendiendo de tus patrones de comunicación para proporcionar traducciones e insights cada vez más personalizados y precisos.",
+      "accuracy": "Precisión de Traducción",
+      "responseTime": "Tiempo de Respuesta Promedio",
+      "languages": "Idiomas Compatibles"
+    }
+  },
+  "useCases": {
+    "title": "Construido para Equipos Modernos",
+    "subtitle": "Ve cómo Globridge transforma la colaboración para equipos alrededor del mundo",
+    "ctaTitle": "¿Listo para Unirte a Equipos Globales en Todo el Mundo?",
+    "ctaDescription": "Ve cómo equipos como el tuyo ya están colaborando a través de fronteras con Globridge.",
+    "tech": {
+      "title": "Equipos Remotos de Tecnología",
+      "description": "Escala tus equipos de ingeniería y producto globalmente con herramientas de comunicación perfectas."
+    },
+    "support": {
+      "title": "Soporte al Cliente Global",
+      "description": "Proporciona soporte multilingüe 24/7 con traducción y enrutamiento impulsados por IA."
+    },
+    "marketing": {
+      "title": "Equipos de Marketing Distribuidos",
+      "description": "Coordina campañas entre regiones con contenido localizado y flujos de trabajo unificados."
+    },
+    "startups": {
+      "title": "Startups Internacionales",
+      "description": "Lanza globalmente desde el primer día con herramientas diseñadas para equipos distribuidos y multiculturales."
+    }
+  },
+  "testimonials": {
+    "title": "Lo Que Dicen Nuestros Clientes",
+    "subtitle": "Únete a miles de equipos que han transformado su colaboración global",
+    "testimonial1": {
+      "text": "Globridge transformó cómo colaboran nuestras oficinas de Madrid y Toronto. La traducción de IA es increíblemente precisa.",
+      "author": "Luis Rodriguez",
+      "role": "Gerente de Producto",
+      "location": "Madrid, España"
+    },
+    "testimonial2": {
+      "text": "Gestionar nuestro equipo de soporte global se volvió fácil. Solo la programación de zonas horarias nos ahorró horas cada semana.",
+      "author": "Amina Hassan",
+      "role": "Directora de Soporte",
+      "location": "El Cairo, Egipto"
+    },
+    "testimonial3": {
+      "text": "Como startup remota, Globridge nos dio la infraestructura para escalar a través de continentes sin problemas.",
+      "author": "David Chen",
+      "role": "CEO y Fundador",
+      "location": "Toronto, Canadá"
+    },
+    "trustedStats": {
+      "title": "Confiado por equipos en todo el mundo",
+      "activeTeams": "Equipos Activos",
+      "countries": "Países",
+      "satisfaction": "Tasa de Satisfacción",
+      "support": "Soporte"
+    }
+  },
+  "pricing": {
+    "title": "Precios Simples y Transparentes",
+    "subtitle": "Elige el plan que se adapte a las necesidades de tu equipo",
+    "monthly": "Mensual",
+    "annually": "Anual",
+    "save": "Ahorra 20%",
+    "free": {
+      "name": "Gratuito",
+      "price": "$0",
+      "period": "por usuario/mes",
+      "description": "Perfecto para equipos pequeños que comienzan",
+      "features": [
+        "Hasta 5 miembros del equipo",
+        "Traducción básica (3 idiomas)",
+        "Resúmenes estándar de reuniones",
+        "Soporte por email"
+      ]
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "$12",
+      "period": "por usuario/mes",
+      "description": "Para equipos en crecimiento que necesitan más poder",
+      "features": [
+        "Miembros ilimitados del equipo",
+        "Traducción avanzada (100+ idiomas)",
+        "Insights de reuniones impulsados por IA",
+        "Soporte prioritario",
+        "Programación avanzada de zonas horarias",
+        "Integraciones personalizadas"
+      ]
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Precios",
+      "period": "personalizados",
+      "description": "Para organizaciones grandes con necesidades específicas",
+      "features": [
+        "Todo en Pro",
+        "Gerente de cuenta dedicado",
+        "Entrenamiento de IA personalizado",
+        "Seguridad de nivel empresarial",
+        "Implementación local",
+        "Soporte telefónico 24/7"
+      ]
+    },
+    "getStarted": "Comenzar",
+    "contactSales": "Contactar Ventas",
+    "mostPopular": "Más Popular",
+    "trialDisclaimer": "Todos los planes incluyen una prueba gratuita de 14 días. Sin tarjeta de crédito requerida. Cancela en cualquier momento."
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Todo lo que necesitas saber sobre Globridge",
+    "q1": {
+      "question": "¿Qué tan precisa es la traducción de IA?",
+      "answer": "Nuestro motor de traducción de IA logra una precisión del 95%+ para contenido empresarial en más de 100 idiomas, con aprendizaje continuo del contexto de tu equipo."
+    },
+    "q2": {
+      "question": "¿Puedo integrar Globridge con mis herramientas existentes?",
+      "answer": "¡Sí! Nos integramos con herramientas populares como Slack, Microsoft Teams, Google Workspace, Notion y muchas más a través de nuestra API e integraciones nativas."
+    },
+    "q3": {
+      "question": "¿Mis datos están seguros?",
+      "answer": "Absolutamente. Usamos encriptación de nivel empresarial, cumplimos con estándares GDPR y SOC 2, y ofrecemos implementación local para clientes Enterprise."
+    },
+    "q4": {
+      "question": "¿Puedo cambiar de plan en cualquier momento?",
+      "answer": "Sí, puedes actualizar o degradar tu plan en cualquier momento. Los cambios toman efecto inmediatamente, y prorratearemos cualquier ajuste de facturación."
+    },
+    "q5": {
+      "question": "¿Ofrecen entrenamiento personalizado para equipos grandes?",
+      "answer": "¡Sí! Los clientes Enterprise obtienen incorporación dedicada, entrenamiento de IA personalizado y soporte continuo para asegurar máxima adopción y ROI."
+    },
+    "support": {
+      "title": "¿Aún tienes preguntas?",
+      "description": "Nuestro equipo está aquí para ayudarte a comenzar con Globridge.",
+      "contactButton": "Contactar Soporte"
+    }
+  },
+  "footer": {
+    "description": "Herramientas de productividad impulsadas por IA para equipos globales remotos. Conecta, colabora y conquista desde cualquier lugar.",
+    "product": "Producto",
+    "company": "Empresa",
+    "legal": "Legal",
+    "features": "Características",
+    "pricing": "Precios",
+    "integrations": "Integraciones",
+    "about": "Acerca de",
+    "careers": "Carreras",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Política de Cookies",
+    "allRights": "Todos los derechos reservados.",
+    "language": "Idioma"
+  },
+  "cta": {
+    "ready": "¿Listo para transformar tu equipo global?",
+    "subtitle": "Únete a miles de equipos que ya usan Globridge para trabajar mejor juntos.",
+    "startTrial": "Prueba Gratuita",
+    "requestDemo": "Solicitar Demo",
+    "trialDisclaimer": "Comienza tu prueba gratuita de 14 días. Sin tarjeta de crédito requerida."
+  }
+}

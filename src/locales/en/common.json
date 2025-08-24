@@ -1,0 +1,200 @@
+{
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "useCases": "Use Cases",
+    "pricing": "Pricing",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Work Without Borders",
+    "subtitle": "AI tools for global teams to collaborate, translate, and execute flawlessly.",
+    "description": "Connect, Collaborate, Conquer – Anywhere",
+    "startTrial": "Start Free Trial",
+    "requestDemo": "Request Demo",
+    "trustedBy": "Trusted by teams at"
+  },
+  "features": {
+    "title": "Powerful Features for Global Teams",
+    "subtitle": "Everything you need to work seamlessly across time zones, languages, and cultures",
+    "translation": {
+      "title": "Localized Content Translation",
+      "description": "Instantly translate documents, messages, and content into 100+ languages with AI-powered accuracy."
+    },
+    "sync": {
+      "title": "Real-time Team Sync",
+      "description": "Keep your distributed team aligned with live updates, shared workspaces, and instant notifications."
+    },
+    "meetings": {
+      "title": "AI Meeting Summaries",
+      "description": "Automatically generate meeting notes, action items, and follow-ups in multiple languages."
+    },
+    "scheduling": {
+      "title": "Cross-Timezone Scheduling",
+      "description": "Smart scheduling that finds the perfect meeting time for your global team members."
+    },
+    "futureWork": {
+      "title": "Built for the Future of Work",
+      "description": "Our AI-powered platform adapts to your team's unique workflow, learning from your communication patterns to provide increasingly personalized and accurate translations and insights.",
+      "accuracy": "Translation Accuracy",
+      "responseTime": "Average Response Time",
+      "languages": "Languages Supported"
+    }
+  },
+  "useCases": {
+    "title": "Built for Modern Teams",
+    "subtitle": "See how Globridge transforms collaboration for teams around the world",
+    "ctaTitle": "Ready to Join Global Teams Worldwide?",
+    "ctaDescription": "See how teams like yours are already collaborating across borders with Globridge.",
+    "tech": {
+      "title": "Remote Teams in Tech",
+      "description": "Scale your engineering and product teams globally with seamless communication tools."
+    },
+    "support": {
+      "title": "Global Customer Support",
+      "description": "Provide 24/7 multilingual support with AI-powered translation and routing."
+    },
+    "marketing": {
+      "title": "Distributed Marketing Teams",
+      "description": "Coordinate campaigns across regions with localized content and unified workflows."
+    },
+    "startups": {
+      "title": "International Startups",
+      "description": "Launch globally from day one with tools designed for distributed, multicultural teams."
+    }
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "subtitle": "Join thousands of teams who've transformed their global collaboration",
+    "testimonial1": {
+      "text": "Globridge transformed how our Madrid and Toronto offices collaborate. The AI translation is incredibly accurate.",
+      "author": "Luis Rodriguez",
+      "role": "Product Manager",
+      "location": "Madrid, Spain"
+    },
+    "testimonial2": {
+      "text": "Managing our global support team became effortless. The timezone scheduling alone saved us hours every week.",
+      "author": "Amina Hassan",
+      "role": "Support Director",
+      "location": "Cairo, Egypt"
+    },
+    "testimonial3": {
+      "text": "As a remote-first startup, Globridge gave us the infrastructure to scale across continents seamlessly.",
+      "author": "David Chen",
+      "role": "CEO & Founder",
+      "location": "Toronto, Canada"
+    },
+    "trustedStats": {
+      "title": "Trusted by teams worldwide",
+      "activeTeams": "Active Teams",
+      "countries": "Countries",
+      "satisfaction": "Satisfaction Rate",
+      "support": "Support"
+    }
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "Choose the plan that fits your team's needs",
+    "monthly": "Monthly",
+    "annually": "Annually",
+    "save": "Save 20%",
+    "free": {
+      "name": "Free",
+      "price": "$0",
+      "period": "per user/month",
+      "description": "Perfect for small teams getting started",
+      "features": [
+        "Up to 5 team members",
+        "Basic translation (3 languages)",
+        "Standard meeting summaries",
+        "Email support"
+      ]
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "$12",
+      "period": "per user/month",
+      "description": "For growing teams that need more power",
+      "features": [
+        "Unlimited team members",
+        "Advanced translation (100+ languages)",
+        "AI-powered meeting insights",
+        "Priority support",
+        "Advanced timezone scheduling",
+        "Custom integrations"
+      ]
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Custom",
+      "period": "pricing",
+      "description": "For large organizations with specific needs",
+      "features": [
+        "Everything in Pro",
+        "Dedicated account manager",
+        "Custom AI training",
+        "Enterprise-grade security",
+        "On-premises deployment",
+        "24/7 phone support"
+      ]
+    },
+    "getStarted": "Get Started",
+    "contactSales": "Contact Sales",
+    "mostPopular": "Most Popular",
+    "trialDisclaimer": "All plans include a 14-day free trial. No credit card required. Cancel anytime."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about Globridge",
+    "q1": {
+      "question": "How accurate is the AI translation?",
+      "answer": "Our AI translation engine achieves 95%+ accuracy for business content across 100+ languages, with continuous learning from your team's context."
+    },
+    "q2": {
+      "question": "Can I integrate Globridge with my existing tools?",
+      "answer": "Yes! We integrate with popular tools like Slack, Microsoft Teams, Google Workspace, Notion, and many more through our API and native integrations."
+    },
+    "q3": {
+      "question": "Is my data secure?",
+      "answer": "Absolutely. We use enterprise-grade encryption, comply with GDPR and SOC 2 standards, and offer on-premises deployment for Enterprise customers."
+    },
+    "q4": {
+      "question": "Can I change plans anytime?",
+      "answer": "Yes, you can upgrade or downgrade your plan at any time. Changes take effect immediately, and we'll prorate any billing adjustments."
+    },
+    "q5": {
+      "question": "Do you offer custom training for large teams?",
+      "answer": "Yes! Enterprise customers get dedicated onboarding, custom AI training, and ongoing support to ensure maximum adoption and ROI."
+    },
+    "support": {
+      "title": "Still have questions?",
+      "description": "Our team is here to help you get started with Globridge.",
+      "contactButton": "Contact Support"
+    }
+  },
+  "footer": {
+    "description": "AI-powered productivity tools for remote global teams. Connect, collaborate, and conquer from anywhere.",
+    "product": "Product",
+    "company": "Company",
+    "legal": "Legal",
+    "features": "Features",
+    "pricing": "Pricing",
+    "integrations": "Integrations",
+    "about": "About Us",
+    "careers": "Careers",
+    "blog": "Blog",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "allRights": "All rights reserved.",
+    "language": "Language"
+  },
+  "cta": {
+    "ready": "Ready to transform your global team?",
+    "subtitle": "Join thousands of teams already using Globridge to work better together.",
+    "startTrial": "Start Free Trial",
+    "requestDemo": "Request Demo",
+    "trialDisclaimer": "Start your 14-day free trial. No credit card required."
+  }
+}
