@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://globridge.com'),
+  metadataBase: new URL('https://globridge-multilang-landing.netlify.app'),
   title: "Globridge - Connect, Collaborate, Conquer – Anywhere",
   description: "AI-powered productivity tools for remote global teams. Collaborate, translate, and execute flawlessly across time zones, languages, and cultures.",
   keywords: ["AI productivity", "remote teams", "global collaboration", "translation", "team communication"],
@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Globridge - Work Without Borders",
     description: "AI tools for global teams to collaborate, translate, and execute flawlessly.",
-    url: "https://globridge.com",
+    url: "https://globridge-multilang-landing.netlify.app",
     siteName: "Globridge",
     images: [
       {
