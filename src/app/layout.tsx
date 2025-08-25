@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     siteName: "Globridge",
     images: [
       {
-        url: "/og-image.jpg",
+        url: "/globe.svg",
         width: 1200,
         height: 630,
         alt: "Globridge - Global Team Collaboration",
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Globridge - Work Without Borders",
     description: "AI tools for global teams to collaborate, translate, and execute flawlessly.",
-    images: ["/og-image.jpg"],
+    images: ["/globe.svg"],
   },
   robots: {
     index: true,
